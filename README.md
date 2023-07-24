@@ -1,9 +1,9 @@
-![Wallpaper](art/wallpaper.png)
+![Wallpaper](art/background.png)
 
 # Real Calculator-Unit Converter for Android. 
 
 ## Overview
-This is A calculator for android. The application is base on the [N+ Calcu](https://github.com/tranleduy2000/ncalc) with some special features (Simplify expressions) and (Pi number). The results are displayed by Latex. This project is an open source project that allows people to study, ad-free application. 
+This is A calculator for android. The application is base on the [Calculator N+](https://github.com/tranleduy2000/ncalc) with some special features (Simplify expressions) and (Pi number). The results are displayed by Latex. This project is an open source project that allows people to study, ad-free application. 
 
 Get lite version in Google Play Store
 
@@ -17,7 +17,7 @@ Get lite version in Google Play Store
 
 ## Screenshot
 
-<img src="art/screenshot/Screenshot_20170815-135135_framed.png" width="400"> <img src="art/screenshot/Screenshot_20170815-135150_framed.png" width="400">
+<img src="art/screen1.png" width="400"> <img src="art/screen2.png" width="400">
 
 ## ALGEBRA
 	. Simplify expressions
