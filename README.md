@@ -17,7 +17,7 @@ Get lite version in Google Play Store
 
 ## Screenshot
 
-<img src="art/screen1.png" width="300"> <img src="art/screen2.png" width="300">
+<img src="art/screen1.png" width="300"> 		<img src="art/screen2.png" width="300">
 
 ## ALGEBRA
 	. Simplify expressions
