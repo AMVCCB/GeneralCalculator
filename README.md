@@ -3,7 +3,7 @@
 # Real Calculator-Unit Converter for Android. 
 
 ## Overview
-This is A calculator for android. The application is base on the [Calculator N+](https://github.com/tranleduy2000/ncalc) with some special features (Simplify expressions) and (Pi number). The results are displayed by Latex. This project is an open source project that allows people to study, ad-free application. 
+This is A calculator for android. The application is base on the [Calculator N+](https://github.com/tranleduy2000/ncalc) with some special features (Simplify expressions) and (Pi number). The results are displayed by Latex. This project is an open source project that allows people to study, free application. 
 
 Get lite version in Google Play Store
 
